@@ -1,4 +1,4 @@
-# flutter_lottie_splash_app
+# :lollipop: flutter_lottie_splash_app
 
 A Flutter application to demonstrate how to add an animated splash screen natively.
 
